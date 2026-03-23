@@ -28,6 +28,14 @@
       "name": "vureact(watch)",
       "command": "pnpm vr:watch",
       "runAtStart": true
+    },
+    "dev-vue": {
+      "name": "dev-vue",
+      "command": "pnpm dev",
+      "runAtStart": false,
+      "preview": {
+        "port": 5174
+      }
     }
   }
 }
