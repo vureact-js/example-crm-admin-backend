@@ -192,6 +192,7 @@ onMounted(async () => {
 }
 
 .ghost {
+  background: var(--muted);
   border: 1px solid var(--border);
   padding: 8px 14px;
   border-radius: 8px;

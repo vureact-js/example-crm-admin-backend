@@ -263,6 +263,7 @@ onMounted(async () => {
 }
 
 .primary.ghost {
+  background: var(--muted);
   border: 1px solid var(--border);
   color: var(--text);
 }

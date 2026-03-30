@@ -252,6 +252,7 @@ select {
 }
 
 .ghost {
+  background: var(--muted);
   border: 1px solid var(--border);
   border-radius: 8px;
   padding: 8px 14px;
