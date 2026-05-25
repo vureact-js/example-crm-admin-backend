@@ -55,3 +55,11 @@ npm run dev
 ## Official Tutorial
 
 <https://www.vureact.top/en/guide/crm-admin-backend.html>
+
+## Feedback & Community
+
+- Problems? See the [FAQ](https://vureact.top/en/guide/faq.html) or open an [Issue](https://github.com/vureact-js/core/issues).
+- Questions about router adaptation? See the [router adaptation guide](https://vureact.top/en/guide/router-adaptation.html).
+- Page styles look wrong? See the [style troubleshooting solution](https://vureact.top/en/guide/faq.html#q35-how-to-fix-missing-or-broken-page-styles).
+- Share your experience on [Discussions](https://github.com/vureact-js/core/discussions).
+- Want to support the project? [Click a ⭐](https://github.com/vureact-js/core/stargazers) helps more people discover it.

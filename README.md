@@ -55,3 +55,11 @@ npm run dev
 ## 官方教程
 
 <https://www.vureact.top/guide/crm-admin-backend.html>
+
+## 反馈与交流
+
+- 遇到问题？[查看 FAQ](https://vureact.top/guide/faq.html) 或 [提交 Issue](https://github.com/vureact-js/core/issues)
+- 路由适配有疑问？[查看路由适配指南](https://vureact.top/guide/router-adaptation.html)
+- 页面样式异常？[查看解决方案](https://vureact.top/guide/faq.html#q35-页面样式异常或丢失如何解决)
+- 使用感受？来 [Discussions](https://github.com/vureact-js/core/discussions) 聊聊
+- 想支持我们？[点个 ⭐](https://github.com/vureact-js/core/stargazers) 让更多人看到这个项目
